@@ -1,10 +1,14 @@
 ### Olá, Sou o Clayton Silva 👋
 
+<p>Atualmente estou atuando como desenvolvedor SQL, com ênfase no SGBD SSQLServer. Mas me sinto muito a vontade a trabalhar como desenvolvedor back-end utilizando a linguagem python. <p/> 
+
 <div align="left">
- <a href="https://github.com/claytonlovin">
+ <a href="https://github.com/claytonlovin"><a/>
  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=claytonlovin&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytonlovin&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+
+<p>Algumas tecnologias que eu gosto de estudar.<p/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Clayton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
