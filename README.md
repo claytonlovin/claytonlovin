@@ -1,6 +1,6 @@
 ### Olá, Sou o Clayton Silva 👋
 
-<p>Atualmente estou atuando como desenvolvedor SQL, com ênfase no SGBD SQLServer. Me sinto muito a vontade a trabalhar como desenvolvedor back-end utilizando a linguagem python. <p/> 
+<p>Atualmente estou atuando como desenvolvedor SQL, com ênfase no SGBD SQLServer. Me sinto muito a vontade a trabalhar como a linguagem python e SQL.<p/> 
 
 <div align="left">
  <a href="https://github.com/claytonlovin"><a/>
