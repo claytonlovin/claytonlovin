@@ -4,10 +4,6 @@ Atualmente estou desenvolvendo o **Petaflow**, um sistema para **gerenciamento d
 
 Tenho experiência com **Python**, **SQL (SQL Server)** e tecnologias voltadas para backend e testes. Também gosto de explorar tecnologias web e práticas DevOps.
 
-<div align="left">
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claytonlovin&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-
 ### 🛠️ Tecnologias que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
