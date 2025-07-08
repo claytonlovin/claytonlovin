@@ -26,6 +26,5 @@ Tenho experiência com **Python**, **SQL (SQL Server)** e tecnologias voltadas p
 <div> 
   <a href = "mailto:claytoncsj520@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/clayttonsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  🔗 [Acesse o repositório do Petaflow](https://github.com/petalflow)
 
 </div>
