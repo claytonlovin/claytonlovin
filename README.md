@@ -1,8 +1,6 @@
 ### 👋 Olá! Sou o Clayton Silva
 
-Atualmente estou desenvolvendo o **Petaflow**, um sistema para **gerenciamento de testes de software**, com foco em automação, organização e controle de qualidade em projetos de desenvolvimento.
-
-Tenho experiência com **Python**, **SQL (SQL Server)** e tecnologias voltadas para backend e testes. Também gosto de explorar tecnologias web e práticas DevOps.
+Desenvolvedor Python com 2+ anos de experiência em backend, APIs RESTful e automação de testes. Experiência em Django, FastAPI e Flask, com práticas DevOps (Docker, CI/CD) e bancos relacionais. Experiência em ambientes ágeis (Scrum/Kanban) com foco em qualidade de código e entrega contínua. Proativo na solução de problemas em sistemas críticos.
 
 ### 🛠️ Tecnologias que utilizo:
 <div style="display: inline_block"><br>
